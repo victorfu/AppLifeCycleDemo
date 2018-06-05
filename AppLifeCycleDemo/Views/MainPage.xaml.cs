@@ -1,7 +1,8 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.Runtime.CompilerServices;
-
+using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 
 namespace AppLifeCycleDemo.Views
